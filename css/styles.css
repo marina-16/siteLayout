@@ -1,0 +1,37 @@
+.logo{
+
+}
+
+.container {
+	width: 1280px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+header .container {
+	display: flex;
+    justify-content: space-between;
+}
+
+nav li {
+	display: inline;
+    margin: 0 10px;
+    font-size: 20px;
+    font-family: "times";
+    color: rgba(103, 111, 107, 0.949);
+    line-height: 1.714;
+}
+
+nav ul {
+	margin: 0 0 0 300px;
+}
+
+header {
+
+}
+div {
+
+}
+section {
+	
+}
